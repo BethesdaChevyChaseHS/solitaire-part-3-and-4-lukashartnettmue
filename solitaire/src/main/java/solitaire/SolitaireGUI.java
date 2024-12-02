@@ -38,7 +38,7 @@ public class SolitaireGUI {
         topPanel.setBackground(Color.LIGHT_GRAY);
 
         // Title label in the center
-        JLabel titleLabel = new JLabel("Your Name's Solitaire", JLabel.CENTER);
+        JLabel titleLabel = new JLabel("Luke's Solitaire", JLabel.CENTER);
         titleLabel.setFont(new Font("Arial", Font.BOLD, 20));
         topPanel.add(titleLabel, BorderLayout.CENTER);
 
